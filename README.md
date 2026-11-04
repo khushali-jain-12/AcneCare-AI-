@@ -1,4 +1,4 @@
-# AcneCare AI 🌿
+# AcneCare AI
 ### Deep Learning Acne Classification & Skincare Guidance Web Application
 **5th Semester Artificial Neural Networks & Deep Learning Project**
 
@@ -6,7 +6,7 @@ AcneCare AI is a full-stack, deep-learning-powered web application that classifi
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 * **Course**: 5th Semester Artificial Neural Networks and Deep Learning
 * **Model File**: `acne_cnn_model.keras`
@@ -16,7 +16,7 @@ AcneCare AI is a full-stack, deep-learning-powered web application that classifi
 
 ---
 
-## 🔬 CNN Model Architecture & Technical Specs
+##CNN Model Architecture & Technical Specs
 
 | Property | Value |
 | :--- | :--- |
@@ -51,7 +51,7 @@ AcneCare AI is a full-stack, deep-learning-powered web application that classifi
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 * **Frontend**: React 18, Vite, Lucide Icons, Modern Responsive CSS
 * **Backend**: Python 3, Flask, Flask-CORS, Werkzeug
@@ -60,7 +60,7 @@ AcneCare AI is a full-stack, deep-learning-powered web application that classifi
 
 ---
 
-## 🚀 Installation & Running the Application
+## Installation & Running the Application
 
 ### 1. Prerequisites
 Ensure you have the following installed on your system:
@@ -86,7 +86,7 @@ cd ..
 
 ---
 
-## 💻 Running the Application
+## Running the Application
 
 ### Option A: One-Command All-In-One Mode (Recommended for College Viva/Demo)
 Because Flask is configured to serve the compiled React production build directly, you can start the complete application with a single terminal command:
@@ -119,7 +119,7 @@ npm run dev
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```text
 AcneCare_AI/
@@ -157,7 +157,7 @@ AcneCare_AI/
 
 ---
 
-## 🧪 Testing the Classifier
+##Testing the Classifier
 
 1. Open **[http://localhost:5001](http://localhost:5001)** in your browser.
 2. In the upload card, drag and drop an acne photo or click to browse.
@@ -175,7 +175,7 @@ AcneCare_AI/
 
 ---
 
-## ⚖️ Academic & Medical Disclaimer
+##Academic & Medical Disclaimer
 
 * This application is an academic software project completed for a **5th Semester Artificial Neural Networks & Deep Learning** curriculum.
 * It is created solely for experimental and educational demonstration.
